@@ -8,10 +8,8 @@ management system. i.e. Location, Section and Track.
 
 ## Assignment 2
 
-A method for reading in the sections of a track from a file, and a method for allocating routes to trains (so that they don’t collide).
+A method for reading in the sections of a track from a file, and a method for allocating routes to trains (so that they do not collide).
 
 ## Assignment 3
 
 A GUI for simulating the behaviour of a train management system using the Model-View-Controller design pattern.
-
-## A method for reading in the sections of a track from a file, and a method for allocating routes to trains (so that they don’t collide).
